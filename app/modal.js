@@ -122,12 +122,12 @@ const AddContributorModal = ({ isOpen, onClose, onSuccess }) => {
               </label>
               <div className="grid grid-cols-6 gap-2">
                 {[
-                  "✨",
+                  "🖤",
                   "🎨",
-                  "📱",
-                  "💻",
-                  "📊",
-                  "📲",
+                  "🦋",
+                  "🌟",
+                  "🌼",
+                  "🪴",
                   "🚀",
                   "🌟",
                   "🎯",
